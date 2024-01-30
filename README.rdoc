@@ -1,5 +1,7 @@
 = Acts As Commentable
 
+Maintained fork of the original acts_as_commentable gem.
+
 Provides a single Comment model that can be attached to any model(s) within your app. It creates
 a Comment model and handles the plumbing between that model and any models that you declare to be
 commentable models.
